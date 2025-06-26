@@ -1,0 +1,8 @@
+.DS_Store
+.vscode/
+*.tfstate
+*.tfstate.*
+.terraform/
+ny_taxi_postgres_data/
+*.parquet
+terraform/credentials
